@@ -13,7 +13,7 @@ Execute o comando dotnet run na pasta API para que o console utilize dela.
 
 Após executado a API, execute o comando dotnet run --project .\DTI\DTI.csproj para iniciar a aplicação, ou execute dotnet publish -c Release -r win-x64 --self-contained false para gerar um executável na pasta \src\DTI\bin\Release\netcoreapp2.1\win-x64\publish.
 
-Execute Dotnet Test para executar os testes.
+Execute Dotnet test para executar os testes.
 
 # Observações
 
