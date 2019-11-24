@@ -1,0 +1,9 @@
+C:\Users\Victor Teles\source\repos\DTI\Enumerador\bin\Debug\netstandard2.0\Enumerador.deps.json
+C:\Users\Victor Teles\source\repos\DTI\Enumerador\bin\Debug\netstandard2.0\Enumerador.dll
+C:\Users\Victor Teles\source\repos\DTI\Enumerador\bin\Debug\netstandard2.0\Enumerador.pdb
+C:\Users\Victor Teles\source\repos\DTI\Enumerador\obj\Debug\netstandard2.0\Enumerador.csprojAssemblyReference.cache
+C:\Users\Victor Teles\source\repos\DTI\Enumerador\obj\Debug\netstandard2.0\Enumerador.csproj.CoreCompileInputs.cache
+C:\Users\Victor Teles\source\repos\DTI\Enumerador\obj\Debug\netstandard2.0\Enumerador.AssemblyInfoInputs.cache
+C:\Users\Victor Teles\source\repos\DTI\Enumerador\obj\Debug\netstandard2.0\Enumerador.AssemblyInfo.cs
+C:\Users\Victor Teles\source\repos\DTI\Enumerador\obj\Debug\netstandard2.0\Enumerador.dll
+C:\Users\Victor Teles\source\repos\DTI\Enumerador\obj\Debug\netstandard2.0\Enumerador.pdb

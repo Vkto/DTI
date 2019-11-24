@@ -1,0 +1,16 @@
+C:\Users\Victor Teles\source\repos\DTI\Fachada\bin\Debug\netstandard2.0\Fachada.deps.json
+C:\Users\Victor Teles\source\repos\DTI\Fachada\bin\Debug\netstandard2.0\Fachada.dll
+C:\Users\Victor Teles\source\repos\DTI\Fachada\bin\Debug\netstandard2.0\Fachada.pdb
+C:\Users\Victor Teles\source\repos\DTI\Fachada\bin\Debug\netstandard2.0\Apresentacao.dll
+C:\Users\Victor Teles\source\repos\DTI\Fachada\bin\Debug\netstandard2.0\Dados.dll
+C:\Users\Victor Teles\source\repos\DTI\Fachada\bin\Debug\netstandard2.0\Interface.dll
+C:\Users\Victor Teles\source\repos\DTI\Fachada\bin\Debug\netstandard2.0\Apresentacao.pdb
+C:\Users\Victor Teles\source\repos\DTI\Fachada\bin\Debug\netstandard2.0\Dados.pdb
+C:\Users\Victor Teles\source\repos\DTI\Fachada\bin\Debug\netstandard2.0\Interface.pdb
+C:\Users\Victor Teles\source\repos\DTI\Fachada\obj\Debug\netstandard2.0\Fachada.csprojAssemblyReference.cache
+C:\Users\Victor Teles\source\repos\DTI\Fachada\obj\Debug\netstandard2.0\Fachada.csproj.CoreCompileInputs.cache
+C:\Users\Victor Teles\source\repos\DTI\Fachada\obj\Debug\netstandard2.0\Fachada.AssemblyInfoInputs.cache
+C:\Users\Victor Teles\source\repos\DTI\Fachada\obj\Debug\netstandard2.0\Fachada.AssemblyInfo.cs
+C:\Users\Victor Teles\source\repos\DTI\Fachada\obj\Debug\netstandard2.0\Fachada.csproj.CopyComplete
+C:\Users\Victor Teles\source\repos\DTI\Fachada\obj\Debug\netstandard2.0\Fachada.dll
+C:\Users\Victor Teles\source\repos\DTI\Fachada\obj\Debug\netstandard2.0\Fachada.pdb

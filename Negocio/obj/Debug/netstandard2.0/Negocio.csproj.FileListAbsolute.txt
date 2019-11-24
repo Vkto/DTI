@@ -1,0 +1,16 @@
+C:\Users\Victor Teles\source\repos\DTI\Negocio\bin\Debug\netstandard2.0\Negocio.deps.json
+C:\Users\Victor Teles\source\repos\DTI\Negocio\bin\Debug\netstandard2.0\Negocio.dll
+C:\Users\Victor Teles\source\repos\DTI\Negocio\bin\Debug\netstandard2.0\Negocio.pdb
+C:\Users\Victor Teles\source\repos\DTI\Negocio\bin\Debug\netstandard2.0\Apresentacao.dll
+C:\Users\Victor Teles\source\repos\DTI\Negocio\bin\Debug\netstandard2.0\Dados.dll
+C:\Users\Victor Teles\source\repos\DTI\Negocio\bin\Debug\netstandard2.0\Interface.dll
+C:\Users\Victor Teles\source\repos\DTI\Negocio\bin\Debug\netstandard2.0\Apresentacao.pdb
+C:\Users\Victor Teles\source\repos\DTI\Negocio\bin\Debug\netstandard2.0\Dados.pdb
+C:\Users\Victor Teles\source\repos\DTI\Negocio\bin\Debug\netstandard2.0\Interface.pdb
+C:\Users\Victor Teles\source\repos\DTI\Negocio\obj\Debug\netstandard2.0\Negocio.csprojAssemblyReference.cache
+C:\Users\Victor Teles\source\repos\DTI\Negocio\obj\Debug\netstandard2.0\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Victor Teles\source\repos\DTI\Negocio\obj\Debug\netstandard2.0\Negocio.AssemblyInfoInputs.cache
+C:\Users\Victor Teles\source\repos\DTI\Negocio\obj\Debug\netstandard2.0\Negocio.AssemblyInfo.cs
+C:\Users\Victor Teles\source\repos\DTI\Negocio\obj\Debug\netstandard2.0\Negocio.csproj.CopyComplete
+C:\Users\Victor Teles\source\repos\DTI\Negocio\obj\Debug\netstandard2.0\Negocio.dll
+C:\Users\Victor Teles\source\repos\DTI\Negocio\obj\Debug\netstandard2.0\Negocio.pdb

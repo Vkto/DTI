@@ -1,0 +1,9 @@
+C:\Users\Victor Teles\source\repos\DTI\Apresentacao\bin\Debug\netstandard2.0\Apresentacao.deps.json
+C:\Users\Victor Teles\source\repos\DTI\Apresentacao\bin\Debug\netstandard2.0\Apresentacao.dll
+C:\Users\Victor Teles\source\repos\DTI\Apresentacao\bin\Debug\netstandard2.0\Apresentacao.pdb
+C:\Users\Victor Teles\source\repos\DTI\Apresentacao\obj\Debug\netstandard2.0\Apresentacao.csprojAssemblyReference.cache
+C:\Users\Victor Teles\source\repos\DTI\Apresentacao\obj\Debug\netstandard2.0\Apresentacao.csproj.CoreCompileInputs.cache
+C:\Users\Victor Teles\source\repos\DTI\Apresentacao\obj\Debug\netstandard2.0\Apresentacao.AssemblyInfoInputs.cache
+C:\Users\Victor Teles\source\repos\DTI\Apresentacao\obj\Debug\netstandard2.0\Apresentacao.AssemblyInfo.cs
+C:\Users\Victor Teles\source\repos\DTI\Apresentacao\obj\Debug\netstandard2.0\Apresentacao.dll
+C:\Users\Victor Teles\source\repos\DTI\Apresentacao\obj\Debug\netstandard2.0\Apresentacao.pdb

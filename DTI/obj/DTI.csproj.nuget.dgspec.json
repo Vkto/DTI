@@ -1,0 +1,628 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Victor Teles\\source\\repos\\DTI\\DTI\\DTI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Apresentacao\\Apresentacao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Apresentacao\\Apresentacao.csproj",
+        "projectName": "Apresentacao",
+        "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Apresentacao\\Apresentacao.csproj",
+        "packagesPath": "C:\\Users\\Victor Teles\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Apresentacao\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Victor Teles\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Dados\\Dados.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Dados\\Dados.csproj",
+        "projectName": "Dados",
+        "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Dados\\Dados.csproj",
+        "packagesPath": "C:\\Users\\Victor Teles\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Dados\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Victor Teles\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Dependencia\\Dependencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Dependencia\\Dependencia.csproj",
+        "projectName": "Dependencia",
+        "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Dependencia\\Dependencia.csproj",
+        "packagesPath": "C:\\Users\\Victor Teles\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Dependencia\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Victor Teles\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Dados\\Dados.csproj": {
+                "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Dados\\Dados.csproj"
+              },
+              "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Interface\\Interface.csproj": {
+                "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Interface\\Interface.csproj"
+              },
+              "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Repositorio\\Repositorio.csproj": {
+                "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Repositorio\\Repositorio.csproj"
+              },
+              "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Telas\\Telas.csproj": {
+                "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Telas\\Telas.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Victor Teles\\source\\repos\\DTI\\DTI\\DTI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\DTI\\DTI.csproj",
+        "projectName": "DTI",
+        "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\DTI\\DTI.csproj",
+        "packagesPath": "C:\\Users\\Victor Teles\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\DTI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Victor Teles\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Apresentacao\\Apresentacao.csproj": {
+                "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Apresentacao\\Apresentacao.csproj"
+              },
+              "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Dados\\Dados.csproj": {
+                "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Dados\\Dados.csproj"
+              },
+              "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Dependencia\\Dependencia.csproj": {
+                "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Dependencia\\Dependencia.csproj"
+              },
+              "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Enumerador\\Enumerador.csproj": {
+                "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Enumerador\\Enumerador.csproj"
+              },
+              "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Fachada\\Fachada.csproj": {
+                "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Fachada\\Fachada.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Enumerador\\Enumerador.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Enumerador\\Enumerador.csproj",
+        "projectName": "Enumerador",
+        "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Enumerador\\Enumerador.csproj",
+        "packagesPath": "C:\\Users\\Victor Teles\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Enumerador\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Victor Teles\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Fachada\\Fachada.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Fachada\\Fachada.csproj",
+        "projectName": "Fachada",
+        "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Fachada\\Fachada.csproj",
+        "packagesPath": "C:\\Users\\Victor Teles\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Fachada\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Victor Teles\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Apresentacao\\Apresentacao.csproj": {
+                "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Apresentacao\\Apresentacao.csproj"
+              },
+              "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Dados\\Dados.csproj": {
+                "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Dados\\Dados.csproj"
+              },
+              "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Interface\\Interface.csproj": {
+                "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Interface\\Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Interface\\Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Interface\\Interface.csproj",
+        "projectName": "Interface",
+        "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Interface\\Interface.csproj",
+        "packagesPath": "C:\\Users\\Victor Teles\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Victor Teles\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Apresentacao\\Apresentacao.csproj": {
+                "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Apresentacao\\Apresentacao.csproj"
+              },
+              "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Dados\\Dados.csproj": {
+                "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Dados\\Dados.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Repositorio\\Repositorio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Repositorio\\Repositorio.csproj",
+        "projectName": "Repositorio",
+        "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Repositorio\\Repositorio.csproj",
+        "packagesPath": "C:\\Users\\Victor Teles\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Repositorio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Victor Teles\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Fachada\\Fachada.csproj": {
+                "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Fachada\\Fachada.csproj"
+              },
+              "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Interface\\Interface.csproj": {
+                "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Interface\\Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Telas\\Telas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Telas\\Telas.csproj",
+        "projectName": "Telas",
+        "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Telas\\Telas.csproj",
+        "packagesPath": "C:\\Users\\Victor Teles\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Telas\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Victor Teles\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Apresentacao\\Apresentacao.csproj": {
+                "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Apresentacao\\Apresentacao.csproj"
+              },
+              "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Enumerador\\Enumerador.csproj": {
+                "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Enumerador\\Enumerador.csproj"
+              },
+              "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Interface\\Interface.csproj": {
+                "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Interface\\Interface.csproj"
+              },
+              "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Repositorio\\Repositorio.csproj": {
+                "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Repositorio\\Repositorio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
