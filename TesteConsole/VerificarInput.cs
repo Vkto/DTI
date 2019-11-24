@@ -21,14 +21,18 @@ namespace TesteConsole
             _fachada = new JurosFachada();
         }
         [Fact]
-        public void VerificarInsert()
+        public void VerificarInsertNotNull()
         {
-            var fachada = new JurosFachada();
-
             JurosApresentacao retorno = InserirItens().GetAwaiter().GetResult();
 
             Assert.NotNull(retorno);
+        }
+        [Fact]
+        public void VerificarInsertNull()
+        {
+            Action action = () =>  InserirItensInvalidos().GetAwaiter().GetResult();
 
+            Assert.Throws<Exception>(action);
         }
         [Fact]
         public void VerificarListaRetornoNotNull()
@@ -58,6 +62,11 @@ namespace TesteConsole
         private async Task<JurosApresentacao> InserirItens()
         {
             var dados = new JurosDados { TaxaJurosMensal = 2, TempoResgate = 1, ValorAporteMensal = 100 };
+            return await _fachada.GetJurosComposto(dados);
+        }
+        private async Task<JurosApresentacao> InserirItensInvalidos()
+        {
+            var dados = new JurosDados { TaxaJurosMensal = 2, TempoResgate = 0, ValorAporteMensal = 0 };
             return await _fachada.GetJurosComposto(dados);
         }
 

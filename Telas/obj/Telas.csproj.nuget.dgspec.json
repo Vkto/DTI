@@ -60,11 +60,6 @@
           "assetTargetFallback": true,
           "warn": true
         }
-      },
-      "runtimes": {
-        "win-x64": {
-          "#import": []
-        }
       }
     },
     "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Dados\\Dados.csproj": {
@@ -123,11 +118,6 @@
           "assetTargetFallback": true,
           "warn": true
         }
-      },
-      "runtimes": {
-        "win-x64": {
-          "#import": []
-        }
       }
     },
     "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Enumerador\\Enumerador.csproj": {
@@ -181,11 +171,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true
-        }
-      },
-      "runtimes": {
-        "win-x64": {
-          "#import": []
         }
       }
     },
@@ -263,11 +248,6 @@
           "assetTargetFallback": true,
           "warn": true
         }
-      },
-      "runtimes": {
-        "win-x64": {
-          "#import": []
-        }
       }
     },
     "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Interface\\Interface.csproj": {
@@ -329,11 +309,6 @@
           "assetTargetFallback": true,
           "warn": true
         }
-      },
-      "runtimes": {
-        "win-x64": {
-          "#import": []
-        }
       }
     },
     "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Repositorio\\Repositorio.csproj": {
@@ -394,11 +369,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true
-        }
-      },
-      "runtimes": {
-        "win-x64": {
-          "#import": []
         }
       }
     },
@@ -466,11 +436,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true
-        }
-      },
-      "runtimes": {
-        "win-x64": {
-          "#import": []
         }
       }
     }

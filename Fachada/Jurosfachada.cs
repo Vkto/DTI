@@ -26,17 +26,26 @@ namespace Fachada
         }
         public async Task<JurosApresentacao> GetJurosComposto(JurosDados entrada)
         {
-
             JurosApresentacao retorno = new JurosApresentacao();
-            HttpResponseMessage response = client.PostAsJsonAsync(
-                  "api/juros", entrada).GetAwaiter().GetResult();
 
-            response.EnsureSuccessStatusCode();
-
-            if (response.IsSuccessStatusCode)
+            if (entrada.TaxaJurosMensal <= 0 || entrada.TempoResgate <= 0 || entrada.ValorAporteMensal <= 0)
             {
-                var dados = await response.Content.ReadAsStringAsync();
-                retorno = JsonConvert.DeserializeObject<JurosApresentacao>(dados);
+                retorno.Erro = "Os valores informados devem ser maiores que 0.";
+                throw new Exception("Os valores informados devem ser maiores que 0.");
+            }
+            else
+            {
+                HttpResponseMessage response = client.PostAsJsonAsync(
+                      "api/juros", entrada).GetAwaiter().GetResult();
+
+                response.EnsureSuccessStatusCode();
+
+                if (response.IsSuccessStatusCode)
+                {
+                    retorno.Erro = null;
+                    var dados = await response.Content.ReadAsStringAsync();
+                    retorno = JsonConvert.DeserializeObject<JurosApresentacao>(dados);
+                }
             }
             return retorno;
         }

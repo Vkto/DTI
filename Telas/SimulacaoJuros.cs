@@ -96,14 +96,22 @@ namespace Telas
                         $"de R${Math.Round(retorno.JurosSimples, 2)} ");
 
                     Console.WriteLine();
-                    Console.WriteLine("Para simular novamente, basta digitar VOLTAR.");
+                    Console.WriteLine("Para simular novamente, basta pressionar ENTER.");
                     Console.ReadLine();
                 }
                 catch (Exception e)
                 {
-                    throw e;
+                    if (e.Message == "Os valores informados devem ser maiores que 0.")
+                    {
+                        Console.WriteLine(e.Message);
+                        Console.WriteLine("Para simular novamente, basta pressionar ENTER.");
+                        Console.ReadLine();
+                    }
+                    else
+                    {
+                        throw e;
+                    }
                 }
-
             }
         }
 

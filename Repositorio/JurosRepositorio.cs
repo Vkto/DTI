@@ -12,8 +12,6 @@ namespace Repositorio
     {
         private IJurosFachada _jurosFachada;
         private List<JurosSaida> _historico;
-
-
         public JurosRepositorio()
         {
             _jurosFachada = new JurosFachada();
