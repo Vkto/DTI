@@ -21,7 +21,7 @@ O sistema utiliza da Fachada para acesso a API, que executa suas regras e somat�
 
 O Programa utiliza também de classes como:
 - Dados para controle de informações. <br>
-- Apresentação para exebição de informações para o usuário. <br>
+- Apresentação para exibição de informações para o usuário. <br>
 - Enumerador para personificação de botões e ações. <br>
 - Fachada para acesso a Controller. <br>
 
