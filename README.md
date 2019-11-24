@@ -36,7 +36,7 @@ A Consulta do histórico de simulações permite que o usuário veja as simulaç
 
 # Instruções
 
-A aplicação console utiliza da API para requisições Http, sendo assim, este controle é dado pela URL LocalHost, que está configurada para acessar a porta https://localhost:5001/. 
+A aplicação console utiliza da API para requisições Http, sendo assim, este controle é dado pela URL LocalHost, que está configurada para acessar a porta https://localhost:5001/ ( http://localhost:5000/ caso não seja https). 
 
 Caso esta esteja ocupada, poderá ser modificada no arquivo JurosFachada linha 23. 
 
