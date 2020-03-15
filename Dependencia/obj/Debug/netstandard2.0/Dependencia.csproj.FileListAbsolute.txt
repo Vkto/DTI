@@ -22,3 +22,26 @@ C:\Users\Victor Teles\source\repos\DTI\Dependencia\obj\Debug\netstandard2.0\Depe
 C:\Users\Victor Teles\source\repos\DTI\Dependencia\obj\Debug\netstandard2.0\Dependencia.csproj.CopyComplete
 C:\Users\Victor Teles\source\repos\DTI\Dependencia\obj\Debug\netstandard2.0\Dependencia.dll
 C:\Users\Victor Teles\source\repos\DTI\Dependencia\obj\Debug\netstandard2.0\Dependencia.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Dependencia\bin\Debug\netstandard2.0\Dependencia.deps.json
+C:\Users\Dell\Desktop\Juros\DTI\Dependencia\bin\Debug\netstandard2.0\Dependencia.dll
+C:\Users\Dell\Desktop\Juros\DTI\Dependencia\bin\Debug\netstandard2.0\Dependencia.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Dependencia\bin\Debug\netstandard2.0\Apresentacao.dll
+C:\Users\Dell\Desktop\Juros\DTI\Dependencia\bin\Debug\netstandard2.0\Dados.dll
+C:\Users\Dell\Desktop\Juros\DTI\Dependencia\bin\Debug\netstandard2.0\Enumerador.dll
+C:\Users\Dell\Desktop\Juros\DTI\Dependencia\bin\Debug\netstandard2.0\Fachada.dll
+C:\Users\Dell\Desktop\Juros\DTI\Dependencia\bin\Debug\netstandard2.0\Interface.dll
+C:\Users\Dell\Desktop\Juros\DTI\Dependencia\bin\Debug\netstandard2.0\Repositorio.dll
+C:\Users\Dell\Desktop\Juros\DTI\Dependencia\bin\Debug\netstandard2.0\Telas.dll
+C:\Users\Dell\Desktop\Juros\DTI\Dependencia\bin\Debug\netstandard2.0\Dados.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Dependencia\bin\Debug\netstandard2.0\Interface.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Dependencia\bin\Debug\netstandard2.0\Repositorio.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Dependencia\bin\Debug\netstandard2.0\Telas.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Dependencia\bin\Debug\netstandard2.0\Apresentacao.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Dependencia\bin\Debug\netstandard2.0\Enumerador.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Dependencia\bin\Debug\netstandard2.0\Fachada.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Dependencia\obj\Debug\netstandard2.0\Dependencia.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Juros\DTI\Dependencia\obj\Debug\netstandard2.0\Dependencia.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Juros\DTI\Dependencia\obj\Debug\netstandard2.0\Dependencia.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Juros\DTI\Dependencia\obj\Debug\netstandard2.0\Dependencia.csproj.CopyComplete
+C:\Users\Dell\Desktop\Juros\DTI\Dependencia\obj\Debug\netstandard2.0\Dependencia.dll
+C:\Users\Dell\Desktop\Juros\DTI\Dependencia\obj\Debug\netstandard2.0\Dependencia.pdb

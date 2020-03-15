@@ -5302,27 +5302,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Victor Teles\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Dell\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Repositorio\\Repositorio.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\Juros\\DTI\\Repositorio\\Repositorio.csproj",
       "projectName": "Repositorio",
-      "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Repositorio\\Repositorio.csproj",
-      "packagesPath": "C:\\Users\\Victor Teles\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Repositorio\\obj\\",
+      "projectPath": "C:\\Users\\Dell\\Desktop\\Juros\\DTI\\Repositorio\\Repositorio.csproj",
+      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dell\\Desktop\\Juros\\DTI\\Repositorio\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Victor Teles\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -5334,11 +5327,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Fachada\\Fachada.csproj": {
-              "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Fachada\\Fachada.csproj"
+            "C:\\Users\\Dell\\Desktop\\Juros\\DTI\\Fachada\\Fachada.csproj": {
+              "projectPath": "C:\\Users\\Dell\\Desktop\\Juros\\DTI\\Fachada\\Fachada.csproj"
             },
-            "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Interface\\Interface.csproj": {
-              "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Interface\\Interface.csproj"
+            "C:\\Users\\Dell\\Desktop\\Juros\\DTI\\Interface\\Interface.csproj": {
+              "projectPath": "C:\\Users\\Dell\\Desktop\\Juros\\DTI\\Interface\\Interface.csproj"
             }
           }
         }
@@ -5360,10 +5353,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

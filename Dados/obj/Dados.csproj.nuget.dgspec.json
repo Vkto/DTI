@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Dados\\Dados.csproj": {}
+    "C:\\Users\\Dell\\Desktop\\Juros\\DTI\\Dados\\Dados.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Dados\\Dados.csproj": {
+    "C:\\Users\\Dell\\Desktop\\Juros\\DTI\\Dados\\Dados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Dados\\Dados.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\Juros\\DTI\\Dados\\Dados.csproj",
         "projectName": "Dados",
-        "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Dados\\Dados.csproj",
-        "packagesPath": "C:\\Users\\Victor Teles\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Dados\\obj\\",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\Juros\\DTI\\Dados\\Dados.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\Desktop\\Juros\\DTI\\Dados\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Victor Teles\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -55,10 +50,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

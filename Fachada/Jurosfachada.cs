@@ -20,7 +20,7 @@ namespace Fachada
             clientHandler.ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => { return true; };
             client = new HttpClient(clientHandler);
             client.DefaultRequestHeaders.ExpectContinue = false;
-            client.BaseAddress = new Uri("https://localhost:5001/");
+            client.BaseAddress = new Uri("https://localhost:44327/");
             client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
 
         }

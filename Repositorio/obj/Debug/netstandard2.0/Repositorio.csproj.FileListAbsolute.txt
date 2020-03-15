@@ -16,3 +16,20 @@ C:\Users\Victor Teles\source\repos\DTI\Repositorio\obj\Debug\netstandard2.0\Repo
 C:\Users\Victor Teles\source\repos\DTI\Repositorio\obj\Debug\netstandard2.0\Repositorio.csproj.CopyComplete
 C:\Users\Victor Teles\source\repos\DTI\Repositorio\obj\Debug\netstandard2.0\Repositorio.dll
 C:\Users\Victor Teles\source\repos\DTI\Repositorio\obj\Debug\netstandard2.0\Repositorio.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Repositorio\bin\Debug\netstandard2.0\Repositorio.deps.json
+C:\Users\Dell\Desktop\Juros\DTI\Repositorio\bin\Debug\netstandard2.0\Repositorio.dll
+C:\Users\Dell\Desktop\Juros\DTI\Repositorio\bin\Debug\netstandard2.0\Repositorio.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Repositorio\bin\Debug\netstandard2.0\Apresentacao.dll
+C:\Users\Dell\Desktop\Juros\DTI\Repositorio\bin\Debug\netstandard2.0\Dados.dll
+C:\Users\Dell\Desktop\Juros\DTI\Repositorio\bin\Debug\netstandard2.0\Fachada.dll
+C:\Users\Dell\Desktop\Juros\DTI\Repositorio\bin\Debug\netstandard2.0\Interface.dll
+C:\Users\Dell\Desktop\Juros\DTI\Repositorio\bin\Debug\netstandard2.0\Fachada.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Repositorio\bin\Debug\netstandard2.0\Interface.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Repositorio\bin\Debug\netstandard2.0\Apresentacao.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Repositorio\bin\Debug\netstandard2.0\Dados.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Repositorio\obj\Debug\netstandard2.0\Repositorio.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Juros\DTI\Repositorio\obj\Debug\netstandard2.0\Repositorio.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Juros\DTI\Repositorio\obj\Debug\netstandard2.0\Repositorio.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Juros\DTI\Repositorio\obj\Debug\netstandard2.0\Repositorio.csproj.CopyComplete
+C:\Users\Dell\Desktop\Juros\DTI\Repositorio\obj\Debug\netstandard2.0\Repositorio.dll
+C:\Users\Dell\Desktop\Juros\DTI\Repositorio\obj\Debug\netstandard2.0\Repositorio.pdb

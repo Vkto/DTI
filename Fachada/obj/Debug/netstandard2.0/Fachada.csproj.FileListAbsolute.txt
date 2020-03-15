@@ -14,3 +14,18 @@ C:\Users\Victor Teles\source\repos\DTI\Fachada\obj\Debug\netstandard2.0\Fachada.
 C:\Users\Victor Teles\source\repos\DTI\Fachada\obj\Debug\netstandard2.0\Fachada.csproj.CopyComplete
 C:\Users\Victor Teles\source\repos\DTI\Fachada\obj\Debug\netstandard2.0\Fachada.dll
 C:\Users\Victor Teles\source\repos\DTI\Fachada\obj\Debug\netstandard2.0\Fachada.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Fachada\bin\Debug\netstandard2.0\Fachada.deps.json
+C:\Users\Dell\Desktop\Juros\DTI\Fachada\bin\Debug\netstandard2.0\Fachada.dll
+C:\Users\Dell\Desktop\Juros\DTI\Fachada\bin\Debug\netstandard2.0\Fachada.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Fachada\bin\Debug\netstandard2.0\Apresentacao.dll
+C:\Users\Dell\Desktop\Juros\DTI\Fachada\bin\Debug\netstandard2.0\Dados.dll
+C:\Users\Dell\Desktop\Juros\DTI\Fachada\bin\Debug\netstandard2.0\Interface.dll
+C:\Users\Dell\Desktop\Juros\DTI\Fachada\bin\Debug\netstandard2.0\Apresentacao.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Fachada\bin\Debug\netstandard2.0\Dados.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Fachada\bin\Debug\netstandard2.0\Interface.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Fachada\obj\Debug\netstandard2.0\Fachada.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Juros\DTI\Fachada\obj\Debug\netstandard2.0\Fachada.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Juros\DTI\Fachada\obj\Debug\netstandard2.0\Fachada.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Juros\DTI\Fachada\obj\Debug\netstandard2.0\Fachada.csproj.CopyComplete
+C:\Users\Dell\Desktop\Juros\DTI\Fachada\obj\Debug\netstandard2.0\Fachada.dll
+C:\Users\Dell\Desktop\Juros\DTI\Fachada\obj\Debug\netstandard2.0\Fachada.pdb

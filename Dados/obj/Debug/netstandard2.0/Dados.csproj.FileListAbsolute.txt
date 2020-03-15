@@ -7,3 +7,11 @@ C:\Users\Victor Teles\source\repos\DTI\Dados\obj\Debug\netstandard2.0\Dados.Asse
 C:\Users\Victor Teles\source\repos\DTI\Dados\obj\Debug\netstandard2.0\Dados.AssemblyInfo.cs
 C:\Users\Victor Teles\source\repos\DTI\Dados\obj\Debug\netstandard2.0\Dados.dll
 C:\Users\Victor Teles\source\repos\DTI\Dados\obj\Debug\netstandard2.0\Dados.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Dados\bin\Debug\netstandard2.0\Dados.deps.json
+C:\Users\Dell\Desktop\Juros\DTI\Dados\bin\Debug\netstandard2.0\Dados.dll
+C:\Users\Dell\Desktop\Juros\DTI\Dados\bin\Debug\netstandard2.0\Dados.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Dados\obj\Debug\netstandard2.0\Dados.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Juros\DTI\Dados\obj\Debug\netstandard2.0\Dados.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Juros\DTI\Dados\obj\Debug\netstandard2.0\Dados.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Juros\DTI\Dados\obj\Debug\netstandard2.0\Dados.dll
+C:\Users\Dell\Desktop\Juros\DTI\Dados\obj\Debug\netstandard2.0\Dados.pdb

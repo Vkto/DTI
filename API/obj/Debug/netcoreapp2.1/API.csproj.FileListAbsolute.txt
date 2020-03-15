@@ -21,3 +21,28 @@ C:\Users\Victor Teles\source\repos\DTI\API\obj\Debug\netcoreapp2.1\API.RazorTarg
 C:\Users\Victor Teles\source\repos\DTI\API\obj\Debug\netcoreapp2.1\API.csproj.CopyComplete
 C:\Users\Victor Teles\source\repos\DTI\API\obj\Debug\netcoreapp2.1\API.dll
 C:\Users\Victor Teles\source\repos\DTI\API\obj\Debug\netcoreapp2.1\API.pdb
+C:\Users\Dell\Desktop\Juros\DTI\API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Dell\Desktop\Juros\DTI\API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Dell\Desktop\Juros\DTI\API\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Dell\Desktop\Juros\DTI\API\bin\Debug\netcoreapp2.1\API.deps.json
+C:\Users\Dell\Desktop\Juros\DTI\API\bin\Debug\netcoreapp2.1\API.runtimeconfig.json
+C:\Users\Dell\Desktop\Juros\DTI\API\bin\Debug\netcoreapp2.1\API.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Juros\DTI\API\bin\Debug\netcoreapp2.1\API.dll
+C:\Users\Dell\Desktop\Juros\DTI\API\bin\Debug\netcoreapp2.1\API.pdb
+C:\Users\Dell\Desktop\Juros\DTI\API\bin\Debug\netcoreapp2.1\Apresentacao.dll
+C:\Users\Dell\Desktop\Juros\DTI\API\bin\Debug\netcoreapp2.1\Dados.dll
+C:\Users\Dell\Desktop\Juros\DTI\API\bin\Debug\netcoreapp2.1\Interface.dll
+C:\Users\Dell\Desktop\Juros\DTI\API\bin\Debug\netcoreapp2.1\Negocio.dll
+C:\Users\Dell\Desktop\Juros\DTI\API\bin\Debug\netcoreapp2.1\Apresentacao.pdb
+C:\Users\Dell\Desktop\Juros\DTI\API\bin\Debug\netcoreapp2.1\Negocio.pdb
+C:\Users\Dell\Desktop\Juros\DTI\API\bin\Debug\netcoreapp2.1\Dados.pdb
+C:\Users\Dell\Desktop\Juros\DTI\API\bin\Debug\netcoreapp2.1\Interface.pdb
+C:\Users\Dell\Desktop\Juros\DTI\API\obj\Debug\netcoreapp2.1\API.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Juros\DTI\API\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cache
+C:\Users\Dell\Desktop\Juros\DTI\API\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cs
+C:\Users\Dell\Desktop\Juros\DTI\API\obj\Debug\netcoreapp2.1\API.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Juros\DTI\API\obj\Debug\netcoreapp2.1\API.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Juros\DTI\API\obj\Debug\netcoreapp2.1\API.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\Desktop\Juros\DTI\API\obj\Debug\netcoreapp2.1\API.csproj.CopyComplete
+C:\Users\Dell\Desktop\Juros\DTI\API\obj\Debug\netcoreapp2.1\API.dll
+C:\Users\Dell\Desktop\Juros\DTI\API\obj\Debug\netcoreapp2.1\API.pdb

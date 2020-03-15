@@ -26,3 +26,30 @@ C:\Users\Victor Teles\source\repos\DTI\DTI\bin\Debug\netcoreapp2.1\Telas.pdb
 C:\Users\Victor Teles\source\repos\DTI\DTI\obj\Debug\netcoreapp2.1\DTI.csproj.CopyComplete
 C:\Users\Victor Teles\source\repos\DTI\DTI\obj\Debug\netcoreapp2.1\DTI.dll
 C:\Users\Victor Teles\source\repos\DTI\DTI\obj\Debug\netcoreapp2.1\DTI.pdb
+C:\Users\Dell\Desktop\Juros\DTI\DTI\bin\Debug\netcoreapp2.1\DTI.deps.json
+C:\Users\Dell\Desktop\Juros\DTI\DTI\bin\Debug\netcoreapp2.1\DTI.runtimeconfig.json
+C:\Users\Dell\Desktop\Juros\DTI\DTI\bin\Debug\netcoreapp2.1\DTI.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Juros\DTI\DTI\bin\Debug\netcoreapp2.1\DTI.dll
+C:\Users\Dell\Desktop\Juros\DTI\DTI\bin\Debug\netcoreapp2.1\DTI.pdb
+C:\Users\Dell\Desktop\Juros\DTI\DTI\bin\Debug\netcoreapp2.1\Apresentacao.dll
+C:\Users\Dell\Desktop\Juros\DTI\DTI\bin\Debug\netcoreapp2.1\Dados.dll
+C:\Users\Dell\Desktop\Juros\DTI\DTI\bin\Debug\netcoreapp2.1\Dependencia.dll
+C:\Users\Dell\Desktop\Juros\DTI\DTI\bin\Debug\netcoreapp2.1\Enumerador.dll
+C:\Users\Dell\Desktop\Juros\DTI\DTI\bin\Debug\netcoreapp2.1\Fachada.dll
+C:\Users\Dell\Desktop\Juros\DTI\DTI\bin\Debug\netcoreapp2.1\Interface.dll
+C:\Users\Dell\Desktop\Juros\DTI\DTI\bin\Debug\netcoreapp2.1\Repositorio.dll
+C:\Users\Dell\Desktop\Juros\DTI\DTI\bin\Debug\netcoreapp2.1\Telas.dll
+C:\Users\Dell\Desktop\Juros\DTI\DTI\bin\Debug\netcoreapp2.1\Apresentacao.pdb
+C:\Users\Dell\Desktop\Juros\DTI\DTI\bin\Debug\netcoreapp2.1\Dados.pdb
+C:\Users\Dell\Desktop\Juros\DTI\DTI\bin\Debug\netcoreapp2.1\Dependencia.pdb
+C:\Users\Dell\Desktop\Juros\DTI\DTI\bin\Debug\netcoreapp2.1\Enumerador.pdb
+C:\Users\Dell\Desktop\Juros\DTI\DTI\bin\Debug\netcoreapp2.1\Fachada.pdb
+C:\Users\Dell\Desktop\Juros\DTI\DTI\bin\Debug\netcoreapp2.1\Interface.pdb
+C:\Users\Dell\Desktop\Juros\DTI\DTI\bin\Debug\netcoreapp2.1\Repositorio.pdb
+C:\Users\Dell\Desktop\Juros\DTI\DTI\bin\Debug\netcoreapp2.1\Telas.pdb
+C:\Users\Dell\Desktop\Juros\DTI\DTI\obj\Debug\netcoreapp2.1\DTI.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Juros\DTI\DTI\obj\Debug\netcoreapp2.1\DTI.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Juros\DTI\DTI\obj\Debug\netcoreapp2.1\DTI.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Juros\DTI\DTI\obj\Debug\netcoreapp2.1\DTI.csproj.CopyComplete
+C:\Users\Dell\Desktop\Juros\DTI\DTI\obj\Debug\netcoreapp2.1\DTI.dll
+C:\Users\Dell\Desktop\Juros\DTI\DTI\obj\Debug\netcoreapp2.1\DTI.pdb

@@ -20,3 +20,24 @@ C:\Users\Victor Teles\source\repos\DTI\Telas\obj\Debug\netstandard2.0\Telas.Asse
 C:\Users\Victor Teles\source\repos\DTI\Telas\obj\Debug\netstandard2.0\Telas.csproj.CopyComplete
 C:\Users\Victor Teles\source\repos\DTI\Telas\obj\Debug\netstandard2.0\Telas.dll
 C:\Users\Victor Teles\source\repos\DTI\Telas\obj\Debug\netstandard2.0\Telas.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Telas\bin\Debug\netstandard2.0\Telas.deps.json
+C:\Users\Dell\Desktop\Juros\DTI\Telas\bin\Debug\netstandard2.0\Telas.dll
+C:\Users\Dell\Desktop\Juros\DTI\Telas\bin\Debug\netstandard2.0\Telas.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Telas\bin\Debug\netstandard2.0\Apresentacao.dll
+C:\Users\Dell\Desktop\Juros\DTI\Telas\bin\Debug\netstandard2.0\Dados.dll
+C:\Users\Dell\Desktop\Juros\DTI\Telas\bin\Debug\netstandard2.0\Enumerador.dll
+C:\Users\Dell\Desktop\Juros\DTI\Telas\bin\Debug\netstandard2.0\Fachada.dll
+C:\Users\Dell\Desktop\Juros\DTI\Telas\bin\Debug\netstandard2.0\Interface.dll
+C:\Users\Dell\Desktop\Juros\DTI\Telas\bin\Debug\netstandard2.0\Repositorio.dll
+C:\Users\Dell\Desktop\Juros\DTI\Telas\bin\Debug\netstandard2.0\Apresentacao.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Telas\bin\Debug\netstandard2.0\Enumerador.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Telas\bin\Debug\netstandard2.0\Interface.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Telas\bin\Debug\netstandard2.0\Repositorio.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Telas\bin\Debug\netstandard2.0\Dados.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Telas\bin\Debug\netstandard2.0\Fachada.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Telas\obj\Debug\netstandard2.0\Telas.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Juros\DTI\Telas\obj\Debug\netstandard2.0\Telas.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Juros\DTI\Telas\obj\Debug\netstandard2.0\Telas.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Juros\DTI\Telas\obj\Debug\netstandard2.0\Telas.csproj.CopyComplete
+C:\Users\Dell\Desktop\Juros\DTI\Telas\obj\Debug\netstandard2.0\Telas.dll
+C:\Users\Dell\Desktop\Juros\DTI\Telas\obj\Debug\netstandard2.0\Telas.pdb

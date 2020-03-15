@@ -12612,27 +12612,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Victor Teles\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Dell\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\Juros\\DTI\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\Victor Teles\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\API\\obj\\",
+      "projectPath": "C:\\Users\\Dell\\Desktop\\Juros\\DTI\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dell\\Desktop\\Juros\\DTI\\API\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Victor Teles\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -12644,11 +12637,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Apresentacao\\Apresentacao.csproj": {
-              "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Apresentacao\\Apresentacao.csproj"
+            "C:\\Users\\Dell\\Desktop\\Juros\\DTI\\Apresentacao\\Apresentacao.csproj": {
+              "projectPath": "C:\\Users\\Dell\\Desktop\\Juros\\DTI\\Apresentacao\\Apresentacao.csproj"
             },
-            "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Negocio\\Negocio.csproj": {
-              "projectPath": "C:\\Users\\Victor Teles\\source\\repos\\DTI\\Negocio\\Negocio.csproj"
+            "C:\\Users\\Dell\\Desktop\\Juros\\DTI\\Negocio\\Negocio.csproj": {
+              "projectPath": "C:\\Users\\Dell\\Desktop\\Juros\\DTI\\Negocio\\Negocio.csproj"
             }
           }
         }
@@ -12678,6 +12671,7 @@
             "version": "[2.1.2, )"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
@@ -12688,10 +12682,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

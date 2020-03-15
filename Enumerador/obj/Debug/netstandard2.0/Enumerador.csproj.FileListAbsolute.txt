@@ -7,3 +7,11 @@ C:\Users\Victor Teles\source\repos\DTI\Enumerador\obj\Debug\netstandard2.0\Enume
 C:\Users\Victor Teles\source\repos\DTI\Enumerador\obj\Debug\netstandard2.0\Enumerador.AssemblyInfo.cs
 C:\Users\Victor Teles\source\repos\DTI\Enumerador\obj\Debug\netstandard2.0\Enumerador.dll
 C:\Users\Victor Teles\source\repos\DTI\Enumerador\obj\Debug\netstandard2.0\Enumerador.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Enumerador\bin\Debug\netstandard2.0\Enumerador.deps.json
+C:\Users\Dell\Desktop\Juros\DTI\Enumerador\bin\Debug\netstandard2.0\Enumerador.dll
+C:\Users\Dell\Desktop\Juros\DTI\Enumerador\bin\Debug\netstandard2.0\Enumerador.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Enumerador\obj\Debug\netstandard2.0\Enumerador.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Juros\DTI\Enumerador\obj\Debug\netstandard2.0\Enumerador.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Juros\DTI\Enumerador\obj\Debug\netstandard2.0\Enumerador.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Juros\DTI\Enumerador\obj\Debug\netstandard2.0\Enumerador.dll
+C:\Users\Dell\Desktop\Juros\DTI\Enumerador\obj\Debug\netstandard2.0\Enumerador.pdb

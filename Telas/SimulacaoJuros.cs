@@ -89,10 +89,10 @@ namespace Telas
 
                     Console.WriteLine("Simulação Efetuada com sucesso!");
 
-                    Console.WriteLine($"Em {retorno.TempoResgate} mes(es) seu Patrimônio Acumulado em Juros Compostos terá um valor de" +
+                    Console.WriteLine($"Em {retorno.TempoResgate} ano(s) seu Patrimônio Acumulado em Juros Compostos terá um valor de" +
                         $" R${Math.Round(retorno.JurosComposto, 2)} ");
 
-                    Console.WriteLine($"Em {retorno.TempoResgate} mes(es) seu Patrimônio Acumulado em Juros Simples terá um valor " +
+                    Console.WriteLine($"Em {retorno.TempoResgate} ano(s) seu Patrimônio Acumulado em Juros Simples terá um valor " +
                         $"de R${Math.Round(retorno.JurosSimples, 2)} ");
 
                     Console.WriteLine();

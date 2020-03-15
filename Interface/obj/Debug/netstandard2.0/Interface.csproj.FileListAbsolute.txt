@@ -12,3 +12,16 @@ C:\Users\Victor Teles\source\repos\DTI\Interface\obj\Debug\netstandard2.0\Interf
 C:\Users\Victor Teles\source\repos\DTI\Interface\obj\Debug\netstandard2.0\Interface.csproj.CopyComplete
 C:\Users\Victor Teles\source\repos\DTI\Interface\obj\Debug\netstandard2.0\Interface.dll
 C:\Users\Victor Teles\source\repos\DTI\Interface\obj\Debug\netstandard2.0\Interface.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Interface\bin\Debug\netstandard2.0\Interface.deps.json
+C:\Users\Dell\Desktop\Juros\DTI\Interface\bin\Debug\netstandard2.0\Interface.dll
+C:\Users\Dell\Desktop\Juros\DTI\Interface\bin\Debug\netstandard2.0\Interface.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Interface\bin\Debug\netstandard2.0\Apresentacao.dll
+C:\Users\Dell\Desktop\Juros\DTI\Interface\bin\Debug\netstandard2.0\Dados.dll
+C:\Users\Dell\Desktop\Juros\DTI\Interface\bin\Debug\netstandard2.0\Apresentacao.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Interface\bin\Debug\netstandard2.0\Dados.pdb
+C:\Users\Dell\Desktop\Juros\DTI\Interface\obj\Debug\netstandard2.0\Interface.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Juros\DTI\Interface\obj\Debug\netstandard2.0\Interface.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Juros\DTI\Interface\obj\Debug\netstandard2.0\Interface.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Juros\DTI\Interface\obj\Debug\netstandard2.0\Interface.csproj.CopyComplete
+C:\Users\Dell\Desktop\Juros\DTI\Interface\obj\Debug\netstandard2.0\Interface.dll
+C:\Users\Dell\Desktop\Juros\DTI\Interface\obj\Debug\netstandard2.0\Interface.pdb

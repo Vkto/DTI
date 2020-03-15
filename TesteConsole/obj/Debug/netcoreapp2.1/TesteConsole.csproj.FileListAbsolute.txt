@@ -23,3 +23,27 @@ C:\Users\Victor Teles\source\repos\DTI\TesteConsole\bin\Debug\netcoreapp2.1\Fach
 C:\Users\Victor Teles\source\repos\DTI\TesteConsole\obj\Debug\netcoreapp2.1\TesteConsole.csproj.CopyComplete
 C:\Users\Victor Teles\source\repos\DTI\TesteConsole\obj\Debug\netcoreapp2.1\TesteConsole.dll
 C:\Users\Victor Teles\source\repos\DTI\TesteConsole\obj\Debug\netcoreapp2.1\TesteConsole.pdb
+C:\Users\Dell\Desktop\Juros\DTI\TesteConsole\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Dell\Desktop\Juros\DTI\TesteConsole\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Dell\Desktop\Juros\DTI\TesteConsole\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Dell\Desktop\Juros\DTI\TesteConsole\bin\Debug\netcoreapp2.1\TesteConsole.deps.json
+C:\Users\Dell\Desktop\Juros\DTI\TesteConsole\bin\Debug\netcoreapp2.1\TesteConsole.runtimeconfig.json
+C:\Users\Dell\Desktop\Juros\DTI\TesteConsole\bin\Debug\netcoreapp2.1\TesteConsole.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Juros\DTI\TesteConsole\bin\Debug\netcoreapp2.1\TesteConsole.dll
+C:\Users\Dell\Desktop\Juros\DTI\TesteConsole\bin\Debug\netcoreapp2.1\TesteConsole.pdb
+C:\Users\Dell\Desktop\Juros\DTI\TesteConsole\bin\Debug\netcoreapp2.1\Apresentacao.dll
+C:\Users\Dell\Desktop\Juros\DTI\TesteConsole\bin\Debug\netcoreapp2.1\Dados.dll
+C:\Users\Dell\Desktop\Juros\DTI\TesteConsole\bin\Debug\netcoreapp2.1\Fachada.dll
+C:\Users\Dell\Desktop\Juros\DTI\TesteConsole\bin\Debug\netcoreapp2.1\Interface.dll
+C:\Users\Dell\Desktop\Juros\DTI\TesteConsole\bin\Debug\netcoreapp2.1\Repositorio.dll
+C:\Users\Dell\Desktop\Juros\DTI\TesteConsole\bin\Debug\netcoreapp2.1\Interface.pdb
+C:\Users\Dell\Desktop\Juros\DTI\TesteConsole\bin\Debug\netcoreapp2.1\Repositorio.pdb
+C:\Users\Dell\Desktop\Juros\DTI\TesteConsole\bin\Debug\netcoreapp2.1\Apresentacao.pdb
+C:\Users\Dell\Desktop\Juros\DTI\TesteConsole\bin\Debug\netcoreapp2.1\Dados.pdb
+C:\Users\Dell\Desktop\Juros\DTI\TesteConsole\bin\Debug\netcoreapp2.1\Fachada.pdb
+C:\Users\Dell\Desktop\Juros\DTI\TesteConsole\obj\Debug\netcoreapp2.1\TesteConsole.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Juros\DTI\TesteConsole\obj\Debug\netcoreapp2.1\TesteConsole.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Juros\DTI\TesteConsole\obj\Debug\netcoreapp2.1\TesteConsole.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Juros\DTI\TesteConsole\obj\Debug\netcoreapp2.1\TesteConsole.csproj.CopyComplete
+C:\Users\Dell\Desktop\Juros\DTI\TesteConsole\obj\Debug\netcoreapp2.1\TesteConsole.dll
+C:\Users\Dell\Desktop\Juros\DTI\TesteConsole\obj\Debug\netcoreapp2.1\TesteConsole.pdb
